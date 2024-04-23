@@ -9,8 +9,11 @@ I specialize in creating engaging, user-centric applications. My experience in c
 - 🔭 I am based in Berlin and looking to embarking on new tech projects
 - 🛠️ Skilled in TypeScript, React.js, JavaScript, Node.js, Express.js, Tailwind CSS, Heroku, Jest, MySQL, Sequelize, MongoDB
 - 🌱 I am currently learning [Data Engineering](https://www.codecademy.com/learn/paths/data-engineer)
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arianne-napa/)
+- 📫 How to reach me: https://linkedin.com/in/arianne-napa/
 
 ### 📈 My GitHub Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arixnapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arixnapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arixnapa&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
