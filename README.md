@@ -1,16 +1,16 @@
-### Hi there 👋
+![banner](./githubportfoliobanner.png)
 
-<!--
-**arixnapa/arixnapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Arianne, I am a Dynamic Full Stack Developer with a background in customer service and digital marketing, recently graduated from [CodeOp's Bootcamp in Barcelona](https://codeop.tech/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in creating engaging, user-centric applications. My experience in customer interaction and digital strategies enhances my ability to deliver effective technical solutions.
+
+- 🔭 I am based in Berlin and looking to embarking on new tech projects
+- 🛠️ Skilled in TypeScript, React.js, JavaScript, Node.js, Express.js, Tailwind CSS, Heroku, Jest, MySQL, Sequelize, MongoDB
+- 🌱 I am currently learning [Data Engineering](https://www.codecademy.com/learn/paths/data-engineer)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arianne-napa/)
+
+### 📈 My GitHub Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arixnapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
