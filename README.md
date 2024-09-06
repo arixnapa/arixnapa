@@ -7,9 +7,14 @@ My name is Arianne, I am a Dynamic Full Stack Developer with a background in cus
 I specialize in creating engaging, user-centric applications. My experience in customer interaction and digital strategies enhances my ability to deliver effective technical solutions.
 
 - 🔭 I am based in Berlin and looking to embarking on new tech projects
-- 🛠️ Skilled in TypeScript, React.js, JavaScript, Node.js, Express.js, Tailwind CSS, Heroku, Jest, MySQL, Sequelize, MongoDB
+- 🛠️ Skilled in Python, TypeScript, JavaScript, React.js, Vue.js, Node.js, Express.js, RESTful API, HTML5, Tailwind CSS, SQL, Sequelize, MongoDB, AWS, Git, Github, TDD, Jest, Agile Scrum, CI/CD
 - 🌱 I am currently learning [Data Engineering](https://www.codecademy.com/learn/paths/data-engineer)
 - 📫 How to reach me: https://linkedin.com/in/arianne-napa/
+
+### Projects:
+
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
 
 ### 📈 My GitHub Stats:
 
